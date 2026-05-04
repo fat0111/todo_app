@@ -1,9 +1,9 @@
-# 📝 Smart To-Do App
+# 📝 To-Do App
 
 ## 👤 Thông tin sinh viên
-- **Họ và tên:** [Tên của bạn]
-- **MSSV:** [Mã số sinh viên]
-- **Lớp/Môn học:** [Nhập tên môn học]
+- **Họ và tên:** Đinh Tiến Phát
+- **MSSV:** 24120405
+- **Lớp/Môn học:** Tư duy tính toán
 
 ## 🌟 Tên feature
 - **Quản lý công việc (To-Do List) và Xác thực người dùng qua Google (OAuth 2.0)**

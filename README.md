@@ -160,4 +160,7 @@ Bạn có thể test API trực tiếp qua giao diện Swagger UI tại `http://
   ```
 
 ## 🎥 Liên kết video demo
-- **Video Demo:** [CHÈN LINK VIDEO CỦA BẠN VÀO ĐÂY]
+
+https://github.com/user-attachments/assets/ead9bf9b-f311-4a4b-a81c-d111b46c9e02
+
+
